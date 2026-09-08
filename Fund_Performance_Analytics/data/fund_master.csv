@@ -1,0 +1,41 @@
+amfi_code,fund_name,fund_house,category,expense_ratio,true_beta_used_for_sim
+100001,SBI Large Cap Fund - Direct Growth,SBI,Large Cap,0.95,0.994
+100002,ICICI Pru Large Cap Fund - Direct Growth,ICICI Pru,Large Cap,0.61,1.016
+100003,Axis Large Cap Fund - Direct Growth,Axis,Large Cap,0.94,0.945
+100004,Kotak Large Cap Fund - Direct Growth,Kotak,Large Cap,0.91,0.901
+100005,Nippon India Large Cap Fund - Direct Growth,Nippon India,Large Cap,0.73,1.02
+100006,Aditya Birla SL Large Cap Fund - Direct Growth,Aditya Birla SL,Large Cap,0.64,0.945
+100007,UTI Large Cap Fund - Direct Growth,UTI,Large Cap,0.72,0.938
+100008,Mirae Asset Large Cap Fund - Direct Growth,Mirae Asset,Large Cap,0.78,0.976
+100009,Parag Parikh Mid Cap Fund - Direct Growth,Parag Parikh,Mid Cap,1.25,1.249
+100010,Franklin Mid Cap Fund - Direct Growth,Franklin,Mid Cap,1.39,1.156
+100011,DSP Mid Cap Fund - Direct Growth,DSP,Mid Cap,0.81,1.054
+100012,Tata Mid Cap Fund - Direct Growth,Tata,Mid Cap,0.73,1.153
+100013,Canara Robeco Mid Cap Fund - Direct Growth,Canara Robeco,Mid Cap,1.06,1.009
+100014,Motilal Oswal Mid Cap Fund - Direct Growth,Motilal Oswal,Mid Cap,1.34,1.117
+100015,Quant Mid Cap Fund - Direct Growth,Quant,Mid Cap,1.06,1.157
+100016,Edelweiss Small Cap Fund - Direct Growth,Edelweiss,Small Cap,1.0,1.224
+100017,Invesco Small Cap Fund - Direct Growth,Invesco,Small Cap,0.95,1.054
+100018,PGIM Small Cap Fund - Direct Growth,PGIM,Small Cap,0.96,1.292
+100019,Sundaram Small Cap Fund - Direct Growth,Sundaram,Small Cap,0.8,1.179
+100020,HDFC Small Cap Fund - Direct Growth,HDFC,Small Cap,0.92,1.341
+100021,SBI Small Cap Fund - Direct Growth,SBI,Small Cap,1.5,1.144
+100022,ICICI Pru Flexi Cap Fund - Direct Growth,ICICI Pru,Flexi Cap,1.11,0.977
+100023,Axis Flexi Cap Fund - Direct Growth,Axis,Flexi Cap,1.05,1.01
+100024,Kotak Flexi Cap Fund - Direct Growth,Kotak,Flexi Cap,0.92,0.873
+100025,Nippon India Flexi Cap Fund - Direct Growth,Nippon India,Flexi Cap,1.12,0.977
+100026,Aditya Birla SL Flexi Cap Fund - Direct Growth,Aditya Birla SL,Flexi Cap,0.96,0.94
+100027,UTI Flexi Cap Fund - Direct Growth,UTI,Flexi Cap,0.83,0.865
+100028,Mirae Asset ELSS Fund - Direct Growth,Mirae Asset,ELSS,0.59,0.945
+100029,Parag Parikh ELSS Fund - Direct Growth,Parag Parikh,ELSS,0.73,1.043
+100030,Franklin ELSS Fund - Direct Growth,Franklin,ELSS,0.85,1.076
+100031,DSP ELSS Fund - Direct Growth,DSP,ELSS,0.88,1.001
+100032,Tata ELSS Fund - Direct Growth,Tata,ELSS,0.59,1.015
+100033,Canara Robeco Hybrid Aggressive Fund - Direct Growth,Canara Robeco,Hybrid Aggressive,0.77,0.638
+100034,Motilal Oswal Hybrid Aggressive Fund - Direct Growth,Motilal Oswal,Hybrid Aggressive,0.67,0.63
+100035,Quant Hybrid Aggressive Fund - Direct Growth,Quant,Hybrid Aggressive,0.75,0.744
+100036,Edelweiss Hybrid Aggressive Fund - Direct Growth,Edelweiss,Hybrid Aggressive,0.81,0.684
+100037,Invesco Debt - Short Duration Fund - Direct Growth,Invesco,Debt - Short Duration,0.46,0.072
+100038,PGIM Debt - Short Duration Fund - Direct Growth,PGIM,Debt - Short Duration,0.54,0.028
+100039,Sundaram Debt - Short Duration Fund - Direct Growth,Sundaram,Debt - Short Duration,0.56,0.077
+100040,HDFC Debt - Short Duration Fund - Direct Growth,HDFC,Debt - Short Duration,0.26,0.054
