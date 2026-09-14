@@ -1,0 +1,433 @@
+amfi_code,sector,weight_pct
+100001,Financial Services,24.171
+100001,Information Technology,15.686
+100001,Energy,13.395
+100001,Consumer Goods,12.21
+100001,Healthcare,6.536
+100001,Automobile,4.679
+100001,Capital Goods,7.814
+100001,Metals & Mining,4.072
+100001,Telecom,4.725
+100001,Chemicals,1.986
+100001,Real Estate,2.767
+100001,Utilities,1.958
+100002,Financial Services,24.151
+100002,Information Technology,16.365
+100002,Energy,13.874
+100002,Consumer Goods,7.708
+100002,Healthcare,8.526
+100002,Automobile,9.796
+100002,Capital Goods,5.828
+100002,Metals & Mining,3.634
+100002,Telecom,3.551
+100002,Chemicals,2.294
+100002,Real Estate,2.383
+100002,Utilities,1.89
+100003,Financial Services,33.78
+100003,Information Technology,12.4
+100003,Energy,7.338
+100003,Consumer Goods,10.678
+100003,Healthcare,9.558
+100003,Automobile,6.069
+100003,Capital Goods,5.759
+100003,Metals & Mining,4.791
+100003,Telecom,3.511
+100003,Chemicals,2.788
+100003,Real Estate,1.199
+100003,Utilities,2.129
+100004,Financial Services,27.372
+100004,Information Technology,17.282
+100004,Energy,11.862
+100004,Consumer Goods,6.609
+100004,Healthcare,9.883
+100004,Automobile,4.476
+100004,Capital Goods,6.841
+100004,Metals & Mining,5.534
+100004,Telecom,3.373
+100004,Chemicals,3.539
+100004,Real Estate,1.874
+100004,Utilities,1.354
+100005,Financial Services,17.481
+100005,Information Technology,18.57
+100005,Energy,10.468
+100005,Consumer Goods,14.361
+100005,Healthcare,7.308
+100005,Automobile,8.394
+100005,Capital Goods,8.299
+100005,Metals & Mining,3.215
+100005,Telecom,4.046
+100005,Chemicals,3.993
+100005,Real Estate,1.595
+100005,Utilities,2.268
+100006,Financial Services,35.579
+100006,Information Technology,8.837
+100006,Energy,11.508
+100006,Consumer Goods,6.134
+100006,Healthcare,7.659
+100006,Automobile,5.251
+100006,Capital Goods,8.733
+100006,Metals & Mining,3.107
+100006,Telecom,6.068
+100006,Chemicals,2.645
+100006,Real Estate,2.958
+100006,Utilities,1.519
+100007,Financial Services,24.973
+100007,Information Technology,10.961
+100007,Energy,8.808
+100007,Consumer Goods,7.201
+100007,Healthcare,9.13
+100007,Automobile,7.01
+100007,Capital Goods,11.734
+100007,Metals & Mining,7.508
+100007,Telecom,4.174
+100007,Chemicals,2.935
+100007,Real Estate,2.318
+100007,Utilities,3.247
+100008,Financial Services,20.556
+100008,Information Technology,18.167
+100008,Energy,9.122
+100008,Consumer Goods,15.084
+100008,Healthcare,8.123
+100008,Automobile,5.223
+100008,Capital Goods,4.91
+100008,Metals & Mining,4.006
+100008,Telecom,6.286
+100008,Chemicals,4.332
+100008,Real Estate,1.383
+100008,Utilities,2.809
+100009,Financial Services,21.698
+100009,Information Technology,14.429
+100009,Energy,11.965
+100009,Consumer Goods,8.162
+100009,Healthcare,10.001
+100009,Automobile,7.86
+100009,Capital Goods,5.929
+100009,Metals & Mining,6.737
+100009,Telecom,5.346
+100009,Chemicals,2.946
+100009,Real Estate,1.509
+100009,Utilities,3.417
+100010,Financial Services,19.137
+100010,Information Technology,16.185
+100010,Energy,8.376
+100010,Consumer Goods,9.432
+100010,Healthcare,11.804
+100010,Automobile,7.792
+100010,Capital Goods,7.857
+100010,Metals & Mining,7.717
+100010,Telecom,2.87
+100010,Chemicals,3.893
+100010,Real Estate,1.915
+100010,Utilities,3.023
+100011,Financial Services,28.829
+100011,Information Technology,9.598
+100011,Energy,11.972
+100011,Consumer Goods,9.033
+100011,Healthcare,10.74
+100011,Automobile,7.955
+100011,Capital Goods,7.887
+100011,Metals & Mining,3.403
+100011,Telecom,3.847
+100011,Chemicals,3.087
+100011,Real Estate,2.44
+100011,Utilities,1.209
+100012,Financial Services,28.764
+100012,Information Technology,14.011
+100012,Energy,8.053
+100012,Consumer Goods,11.381
+100012,Healthcare,6.343
+100012,Automobile,6.787
+100012,Capital Goods,8.716
+100012,Metals & Mining,4.734
+100012,Telecom,4.69
+100012,Chemicals,3.064
+100012,Real Estate,2.0
+100012,Utilities,1.457
+100013,Financial Services,19.314
+100013,Information Technology,19.142
+100013,Energy,9.077
+100013,Consumer Goods,9.923
+100013,Healthcare,9.575
+100013,Automobile,9.661
+100013,Capital Goods,8.295
+100013,Metals & Mining,5.912
+100013,Telecom,2.613
+100013,Chemicals,2.273
+100013,Real Estate,1.465
+100013,Utilities,2.75
+100014,Financial Services,28.892
+100014,Information Technology,12.946
+100014,Energy,12.439
+100014,Consumer Goods,7.951
+100014,Healthcare,8.213
+100014,Automobile,5.6
+100014,Capital Goods,5.725
+100014,Metals & Mining,5.804
+100014,Telecom,2.65
+100014,Chemicals,4.747
+100014,Real Estate,2.841
+100014,Utilities,2.191
+100015,Financial Services,26.851
+100015,Information Technology,12.675
+100015,Energy,8.07
+100015,Consumer Goods,7.547
+100015,Healthcare,12.46
+100015,Automobile,7.086
+100015,Capital Goods,9.346
+100015,Metals & Mining,3.894
+100015,Telecom,4.623
+100015,Chemicals,3.787
+100015,Real Estate,2.175
+100015,Utilities,1.485
+100016,Financial Services,25.399
+100016,Information Technology,10.008
+100016,Energy,12.649
+100016,Consumer Goods,14.825
+100016,Healthcare,5.798
+100016,Automobile,6.52
+100016,Capital Goods,8.144
+100016,Metals & Mining,6.496
+100016,Telecom,3.816
+100016,Chemicals,2.454
+100016,Real Estate,1.7
+100016,Utilities,2.191
+100017,Financial Services,33.466
+100017,Information Technology,11.473
+100017,Energy,11.488
+100017,Consumer Goods,9.841
+100017,Healthcare,6.622
+100017,Automobile,5.309
+100017,Capital Goods,7.1
+100017,Metals & Mining,4.902
+100017,Telecom,3.326
+100017,Chemicals,2.093
+100017,Real Estate,2.511
+100017,Utilities,1.869
+100018,Financial Services,24.379
+100018,Information Technology,15.496
+100018,Energy,7.451
+100018,Consumer Goods,7.524
+100018,Healthcare,10.681
+100018,Automobile,8.907
+100018,Capital Goods,8.547
+100018,Metals & Mining,6.866
+100018,Telecom,4.469
+100018,Chemicals,1.877
+100018,Real Estate,2.498
+100018,Utilities,1.303
+100019,Financial Services,21.151
+100019,Information Technology,21.123
+100019,Energy,6.855
+100019,Consumer Goods,6.916
+100019,Healthcare,11.575
+100019,Automobile,4.965
+100019,Capital Goods,8.245
+100019,Metals & Mining,6.78
+100019,Telecom,5.357
+100019,Chemicals,3.356
+100019,Real Estate,1.991
+100019,Utilities,1.686
+100020,Financial Services,33.991
+100020,Information Technology,8.195
+100020,Energy,10.209
+100020,Consumer Goods,7.249
+100020,Healthcare,6.2
+100020,Automobile,8.425
+100020,Capital Goods,9.596
+100020,Metals & Mining,5.649
+100020,Telecom,4.149
+100020,Chemicals,2.401
+100020,Real Estate,2.207
+100020,Utilities,1.729
+100021,Financial Services,21.882
+100021,Information Technology,12.652
+100021,Energy,14.19
+100021,Consumer Goods,9.5
+100021,Healthcare,8.566
+100021,Automobile,10.221
+100021,Capital Goods,4.791
+100021,Metals & Mining,4.419
+100021,Telecom,4.581
+100021,Chemicals,4.198
+100021,Real Estate,2.236
+100021,Utilities,2.765
+100022,Financial Services,16.783
+100022,Information Technology,11.502
+100022,Energy,13.709
+100022,Consumer Goods,9.159
+100022,Healthcare,10.179
+100022,Automobile,9.536
+100022,Capital Goods,9.821
+100022,Metals & Mining,7.057
+100022,Telecom,3.825
+100022,Chemicals,4.152
+100022,Real Estate,2.673
+100022,Utilities,1.602
+100023,Financial Services,34.591
+100023,Information Technology,15.125
+100023,Energy,6.511
+100023,Consumer Goods,5.944
+100023,Healthcare,7.775
+100023,Automobile,7.163
+100023,Capital Goods,6.31
+100023,Metals & Mining,4.832
+100023,Telecom,3.085
+100023,Chemicals,3.407
+100023,Real Estate,2.496
+100023,Utilities,2.761
+100024,Financial Services,21.852
+100024,Information Technology,12.6
+100024,Energy,11.505
+100024,Consumer Goods,11.055
+100024,Healthcare,11.494
+100024,Automobile,8.944
+100024,Capital Goods,5.56
+100024,Metals & Mining,6.373
+100024,Telecom,3.924
+100024,Chemicals,2.095
+100024,Real Estate,1.981
+100024,Utilities,2.617
+100025,Financial Services,23.102
+100025,Information Technology,11.588
+100025,Energy,12.802
+100025,Consumer Goods,14.122
+100025,Healthcare,10.077
+100025,Automobile,7.32
+100025,Capital Goods,5.178
+100025,Metals & Mining,3.676
+100025,Telecom,4.517
+100025,Chemicals,2.655
+100025,Real Estate,2.297
+100025,Utilities,2.666
+100026,Financial Services,23.213
+100026,Information Technology,14.019
+100026,Energy,10.52
+100026,Consumer Goods,12.668
+100026,Healthcare,9.803
+100026,Automobile,5.3
+100026,Capital Goods,6.767
+100026,Metals & Mining,6.135
+100026,Telecom,4.785
+100026,Chemicals,3.234
+100026,Real Estate,2.039
+100026,Utilities,1.516
+100027,Financial Services,23.483
+100027,Information Technology,8.889
+100027,Energy,8.148
+100027,Consumer Goods,12.23
+100027,Healthcare,11.273
+100027,Automobile,8.697
+100027,Capital Goods,9.677
+100027,Metals & Mining,5.37
+100027,Telecom,4.32
+100027,Chemicals,3.412
+100027,Real Estate,1.828
+100027,Utilities,2.673
+100028,Financial Services,25.153
+100028,Information Technology,11.413
+100028,Energy,13.9
+100028,Consumer Goods,7.433
+100028,Healthcare,7.565
+100028,Automobile,6.514
+100028,Capital Goods,9.28
+100028,Metals & Mining,4.552
+100028,Telecom,6.274
+100028,Chemicals,3.53
+100028,Real Estate,2.934
+100028,Utilities,1.452
+100029,Financial Services,23.238
+100029,Information Technology,16.611
+100029,Energy,9.492
+100029,Consumer Goods,10.395
+100029,Healthcare,8.781
+100029,Automobile,8.804
+100029,Capital Goods,8.024
+100029,Metals & Mining,3.06
+100029,Telecom,3.319
+100029,Chemicals,3.298
+100029,Real Estate,2.206
+100029,Utilities,2.773
+100030,Financial Services,26.353
+100030,Information Technology,13.911
+100030,Energy,8.022
+100030,Consumer Goods,7.715
+100030,Healthcare,7.578
+100030,Automobile,8.476
+100030,Capital Goods,9.724
+100030,Metals & Mining,5.401
+100030,Telecom,4.942
+100030,Chemicals,4.127
+100030,Real Estate,2.525
+100030,Utilities,1.225
+100031,Financial Services,28.755
+100031,Information Technology,12.39
+100031,Energy,7.787
+100031,Consumer Goods,7.339
+100031,Healthcare,10.289
+100031,Automobile,7.846
+100031,Capital Goods,4.797
+100031,Metals & Mining,7.616
+100031,Telecom,3.886
+100031,Chemicals,3.955
+100031,Real Estate,3.056
+100031,Utilities,2.283
+100032,Financial Services,26.111
+100032,Information Technology,9.716
+100032,Energy,9.84
+100032,Consumer Goods,9.077
+100032,Healthcare,10.811
+100032,Automobile,7.718
+100032,Capital Goods,8.849
+100032,Metals & Mining,5.743
+100032,Telecom,5.153
+100032,Chemicals,3.153
+100032,Real Estate,1.794
+100032,Utilities,2.035
+100033,Financial Services,17.468
+100033,Information Technology,17.078
+100033,Energy,11.003
+100033,Consumer Goods,7.656
+100033,Healthcare,11.023
+100033,Automobile,9.942
+100033,Capital Goods,8.889
+100033,Metals & Mining,4.249
+100033,Telecom,5.443
+100033,Chemicals,2.594
+100033,Real Estate,2.386
+100033,Utilities,2.269
+100034,Financial Services,21.731
+100034,Information Technology,14.921
+100034,Energy,11.76
+100034,Consumer Goods,8.585
+100034,Healthcare,11.098
+100034,Automobile,6.998
+100034,Capital Goods,9.128
+100034,Metals & Mining,5.27
+100034,Telecom,3.631
+100034,Chemicals,3.686
+100034,Real Estate,1.933
+100034,Utilities,1.261
+100035,Financial Services,35.763
+100035,Information Technology,17.474
+100035,Energy,8.751
+100035,Consumer Goods,7.662
+100035,Healthcare,6.926
+100035,Automobile,5.076
+100035,Capital Goods,5.636
+100035,Metals & Mining,2.805
+100035,Telecom,3.393
+100035,Chemicals,3.411
+100035,Real Estate,1.567
+100035,Utilities,1.534
+100036,Financial Services,25.831
+100036,Information Technology,13.106
+100036,Energy,14.241
+100036,Consumer Goods,12.039
+100036,Healthcare,7.641
+100036,Automobile,5.12
+100036,Capital Goods,5.37
+100036,Metals & Mining,3.61
+100036,Telecom,5.946
+100036,Chemicals,4.386
+100036,Real Estate,1.473
+100036,Utilities,1.238
